@@ -1,0 +1,11 @@
+# Don't upload user-uploaded product images
+uploads/*
+!uploads/.gitkeep
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Never commit real credentials if you later add a .env file
+.env
