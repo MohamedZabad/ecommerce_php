@@ -42,7 +42,7 @@ The full schema is in [`ecommerce_proj_db.sql`](./ecommerce_proj_db.sql).
 1. Install [Laragon](https://laragon.org/) (or XAMPP/MAMP — any Apache + MySQL + PHP stack works)
 2. Clone this repo into your `www` folder:
    ```
-   git clone https://github.com/yourusername/your-repo-name.git ecommerce-proj
+   git clone https://github.com/yourusername/ecommerce_php.git ecommerce-proj
    ```
 3. Start Laragon (Apache + MySQL)
 4. Open HeidiSQL (or phpMyAdmin) and create a new database called `ecommerce_proj`
